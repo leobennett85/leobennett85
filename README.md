@@ -1,8 +1,8 @@
-## 👊 Welcome to the Repositories of Leo Bennett hosted by GitHub
+# 👊 Welcome to the Repositories of Leo Bennett hosted by GitHub
 
-🖥️ Leo Bennett is a student at [Get Coding](https://www.getcoding.ca/) 🖥️
+### 🖥️ Leo Bennett is a student at [Get Coding](https://www.getcoding.ca/) 🖥️
 
-## Current Project: [TaxiStats](https://leobennett85.github.io/v3/index.html)
+# Current Project: [TaxiStats](https://leobennett85.github.io/v3/index.html)
 
 ## Project Descirptions:
 
@@ -16,6 +16,7 @@
 - Coming Soon - details subject to change
 
 ## Get Coding Progress
+
 ### Module 1: Basics
 - Basics: Git, Github and VSCode
 - Front-End: HTML, CSS and Javascript
