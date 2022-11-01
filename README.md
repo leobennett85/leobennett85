@@ -1,6 +1,6 @@
 # 👊 Welcome to the Repositories of Leo Bennett hosted by GitHub
 
-### 🖥️ Leo Bennett is a student at [Get Coding](https://www.getcoding.ca/) 🖥️
+### 🖥️ Leo Bennett is a student at [Get Coding](https://www.getcoding.ca/)
 
 # Current Project: [TaxiStats](https://leobennett85.github.io/v3/index.html)
 
