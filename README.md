@@ -1,6 +1,6 @@
 # 👊 Welcome to the Repositories of Leo Bennett hosted by GitHub
 ### LinkedIn Profile: https://www.linkedin.com/in/leobennett85/
-### GitHub Repo Index: https://https://leobennett85.github.io/
+### GitHub Repo Index: https://leobennett85.github.io/
 
 ### 🖥️ Leo Bennett is a student at [Get Coding](https://www.getcoding.ca/)
 
