@@ -16,7 +16,7 @@
 - Coach: [John Barry](https://github.com/johnnyb8)
 
 ### Salon Site and Booking App (Module 3)...
-- Coming Soon - details subject to change
+- Coming Soon - <b>details subject to change</b>
 
 ## Get Coding Progress
 
