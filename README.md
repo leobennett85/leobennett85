@@ -5,7 +5,7 @@
 
 ### 🖥️ Leo Bennett is a student at [Get Coding](https://www.getcoding.ca/)
 
-# Current Project: [TaxiStats](https://leobennett85.github.io/v3/index.html)
+# Current Project: [TaxiStats](https://leobennett85.github.io/TaxiStats/v3/index.html)
 
 ## Project Descirptions:
 
@@ -23,7 +23,7 @@
 ### Module 1: Basics
 - Basics: Git, Github and VSCode
 - Front-End: HTML, CSS and Javascript
-- Project: [TaxiStats](https://leobennett85.github.io/)
+- Project: [TaxiStats](https://leobennett85.github.io/TaxiStats/v3/index.html)
 - Coach: [John Barry](https://github.com/johnnyb8)
 
 ### Module 2: Tech Prep 1 (Wednesday, October 23rd, 2022)
