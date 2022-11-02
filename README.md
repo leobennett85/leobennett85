@@ -28,7 +28,7 @@
 
 ### Module 2: Tech Prep 1 (Wednesday, October 23rd, 2022)
 - Linkdin Profile: [Leo Bennett Linkdin](https://www.linkedin.com/in/leobennett85/)
-- Coach: [Sahand SeiFi](https://github.com/sahandseifi/sahandseifi)
+- Coach: [Sahand Seifi](https://github.com/sahandseifi/sahandseifi)
 
 ### Module 3: React.js
 - Front-end: React.js
