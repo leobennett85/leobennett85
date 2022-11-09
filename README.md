@@ -35,10 +35,6 @@
 - Project: TBD
 - Coach: TBD
 
-### Module 4: Tech Prep 2
-- Tecnology Career Prep #2
-- Coach: TBD
-
 ### Module 5: Node and SQL
 - Back-end: Node.js, SQL
 - Coach: TBD
@@ -51,20 +47,8 @@
 - Automated Testing
 - Coach: TBD
 
-### Module 8: AWS Cloud
-- Basic Cloud: AWS
-- Coach: TBD
-
 ### Module 9: CI/CD Pipelines
 - Basic DevOps: CI/CD Pipelines
-- Coach: TBD
-
-### Module 10: Job Hunting
-- Job  Hunting Training
-- Coach: TBD
-
-### Module 11: Job Hunting
-- Job Hunting Period
 - Coach: TBD
 
 <!--
